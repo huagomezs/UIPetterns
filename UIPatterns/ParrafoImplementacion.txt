@@ -1,0 +1,4 @@
+Diseño ético de interfaces y prevención de Dark Patterns
+
+Esta implementación evita los patrones oscuros (Dark Patterns) al ofrecer una navegación clara, permitir que los usuarios consulten información adicional solo cuando lo deseen y aceptar diferentes formatos de entrada sin rechazar innecesariamente sus datos. Además, permite preparar una reserva antes de registrarse, muestra el porcentaje de avance del formulario y confirma el guardado exitoso mediante una notificación.
+Finalmente, los usuarios pueden cancelar sus reservas o cerrar sesión directamente, sin mensajes engañosos ni pasos innecesarios. Estas características promueven la transparencia, la autonomía del usuario y una experiencia de uso positiva.
